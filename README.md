@@ -5,6 +5,8 @@ Collection of open source playbooks and best practices
 # #Work
 #reference/Work
 
+##🔥##
+
 ## #Quicklinks ->
 -> ([#Quicklinks#](bear://x-callback-url/open-tag?name=Quicklinks)])
 <- **Quick link back to <-** [#tasks#](bear://x-callback-url/open-tag?name=Tasks)])
