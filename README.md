@@ -2,7 +2,17 @@
 Collection of open source playbooks and best practices
 
 
-#Apple# 
+# #Work
+#reference/Work
+
+## #Quicklinks ->
+-> ([#Quicklinks#](bear://x-callback-url/open-tag?name=Quicklinks)])
+<- **Quick link back to <-** [#tasks#](bear://x-callback-url/open-tag?name=Tasks)])
+**Quick link back to the tasks tag ->** [#tasks](bear://x-callback-url/open-tag?name=tasks)
+
+## Tasks
+**Quick link back to Tasks note <-** ([Tasks]](bear://x-callback-url/open-tag?name=Tasks)])
+**Quick link back to the tasks tag** -> [#tasks](bear://x-
 
 [Switch devices](https://support.apple.com/en-us/HT204681)  -> between your iPad, iPhone, and Mac. This lets you start a note on one device, quickly switch to another, and keep writing 
 
