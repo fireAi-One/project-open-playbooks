@@ -1,54 +1,15 @@
-# project-open-playbooks
-Collection of open source playbooks and best practices
+# The Open Playbooks Project📚
+![](%23%20The%20Open%20Playbooks%20Project%F0%9F%93%9A/Photo%20Aug%2022,%202021%20at%2095251%20AM.jpg)
+[🔥fireAi.one](www.FireAi.one) Home 
+[🔥fireAi One](www.twitter.com/fireai_one) @Twitter 
+
+![](%23%20The%20Open%20Playbooks%20Project%F0%9F%93%9A/Photo%20Aug%2022,%202021%20at%2095840%20AM.jpg)
+## #OpenPlaybooks🗂
+[Open Source Playbooks  Research](The%20Open%20Playbooks%20Project%209674f1ab52e54c80bef68cc7bde4d4d9/Open%20Source%20Playbooks%20Research%201a4392671f0f4a8392b01a82c09920c0.csv)
+
+[Open Playbooks Design System](The%20Open%20Playbooks%20Project%209674f1ab52e54c80bef68cc7bde4d4d9/Open%20Playbooks%20Design%20System%204a166c9acd5b4c89b7ae08bcf1afb514.csv)
 
 
-# #Work
-#reference/Work
-
-##🔥##
-
-## #Quicklinks ->
--> ([#Quicklinks#](bear://x-callback-url/open-tag?name=Quicklinks)])
-<- **Quick link back to <-** [#tasks#](bear://x-callback-url/open-tag?name=Tasks)])
-**Quick link back to the tasks tag ->** [#tasks](bear://x-callback-url/open-tag?name=tasks)
-
-## Tasks
-**Quick link back to Tasks note <-** ([Tasks]](bear://x-callback-url/open-tag?name=Tasks)])
-**Quick link back to the tasks tag** -> [#tasks](bear://x-
-
-[Switch devices](https://support.apple.com/en-us/HT204681)  -> between your iPad, iPhone, and Mac. This lets you start a note on one device, quickly switch to another, and keep writing 
-
-Browser and App Extensions 🧩 -> It’s easy to collect text, images, attachments, and entire web pages from other apps. Learn how to add and use Bear’s extensions for [iPhone](http://www.bear-writer.com/faq//Extensions/iOS%20App%20Extension/), and [Mac](http://www.bear-writer.com/faq//Extensions/Browser%20extensions/).
-
-#Macbook#, ([[ #Apple# #trello# #markdown# #Work# #Reference# #Tips&Tricks# #Organize# #Quicklinks# #tasks# #Tags# #subtags# #☁️#]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
-
-Browser and App Extensions 🧩 -> It’s easy to collect text, images, attachments, and entire web pages from other apps. Learn how to add and use Bear’s extensions for [Mac](http://www.bear-writer.com/faq//Extensions/Browser%20extensions/). 
-
-#iphone#, ([[ #Apple# #trello# #markdown# #Work# #Reference# #Tips&Tricks# #Organize# #Quicklinks# #tasks# #Tags# #subtags# #☁️#]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
-
-Browser and App Extensions 🧩 -> It’s easy to collect text, images, attachments, and entire web pages from other apps. Learn how to add and use Bear’s extensions for [iPhone](http://www.bear-writer.com/faq//Extensions/iOS%20App%20Extension/). 
-
-#AppleWatch#
-
-[Bear quick notes](Https:///bear.app/faq/Bear%20for%20Apple%20Watch%20overview/)quickly dictate notes on-the-go
-
-Add photos and files (each can be up to 250Mb in size)
-
-#Work#, ([[#tasks# #trello# #markdown# #tasks# #Reference# #Tips&Tricks# #Apple# #Organize# #Quicklinks# #Tags# #subtags# #☁️# ]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
-
-#markdown#, ([[#trello# #Work# #tasks# #Reference# #Tips&Tricks# #Apple# #Organize# #Quicklinks# #Tags# #subtags# #tasks#]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
-
-#Quicklinks#, ([[#trello# #markdown# #Work# #tasks# #Reference# #Tips&Tricks# #Apple# #Organize# #Tags# #subtags#]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
-
-#Organize#, ([[#trello# #markdown# #Work#  #tasks# #Reference# #Tips&Tricks# #Apple# #Quicklinks# #Tags# #subtags#]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
-
-#Reference#, ([[#trello# #markdown# #Work# #Tips&Tricks# #Apple# #Organize# #Quicklinks# #Tags# #subtags#]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
-
-#🏷#, ([[#trello# #markdown# #Work# #Reference# #Tips&Tricks# #Apple# #Organize# #Quicklinks# #Tags# #subtags# #tasks# #☁️#]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
-
-#☁️#, ([[#trello# #markdown# #Work# #Reference# #Tips&Tricks# #Apple# #Organize# #Quicklinks#  #Tags# #subtags# #tasks# #🏷#]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
-
-#subtags#, ([[#trello# #markdown# #Work# #Reference# #Tips&Tricks# #Apple# #Organize# #Quicklinks# #Tags# #subtags# #tasks# #☁️# #🏷#]), [#tags#](bear://x-callback-url/open-tag?name=Tags) 
 
 
 
